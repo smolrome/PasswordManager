@@ -38,8 +38,8 @@ pip install -r requirements.txt
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/password-manager.git
-   cd password-manager
+   git clone https://github.com/smolrome/PasswordManager.git
+   cd PasswordManager
    ```
 
 2. **Install dependencies**  
